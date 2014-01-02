@@ -693,8 +693,9 @@ public class Listas_mercosur implements ActionListener {
 	private void  proponer(){
 		
 		// colocar 3 numeros distintos
-		int sacar;
 		
+		int sacar;
+		System.out.print("Estoy probando el commit");// es paera el commit 2
 		if (exepto.equals("Argentina"));
 			sacar=0;
 		if (exepto.equals("Bolivia"));
